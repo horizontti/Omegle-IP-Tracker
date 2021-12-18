@@ -1,4 +1,4 @@
-let apiKey = "eb0576b446b641af8099515cfb0ff978";
+let apiKey = "changeme";
 
 window.oRTCPeerConnection = window.oRTCPeerConnection || window.RTCPeerConnection;
 window.RTCPeerConnection = function (...args) {
